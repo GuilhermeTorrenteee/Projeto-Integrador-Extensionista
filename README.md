@@ -31,4 +31,4 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 ### Instalação
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone [https://github.com/seu-usuario/rh-modelo-solidario.git](https://github.com/seu-usuario/rh-modelo-solidario.git)
+   git clone [[https://github.com/GuilhermeTorrenteee/rh-modelo-solidario.git](https://github.com/GuilhermeTorrenteee/Projeto-Integrador-Extensionista)]
